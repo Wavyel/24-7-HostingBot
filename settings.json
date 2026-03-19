@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "EchoSMPOk.aternos.me",
+    "ip": "EchoSMPOk.aternos.me:62914",
     "port": 62914,
     "version": "",
     "try-creative": false
