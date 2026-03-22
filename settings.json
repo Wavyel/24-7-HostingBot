@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Echo",
+    "username": "24/7 bot",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "EchoSMPOk.aternos.me:62914",
-    "port": 62914,
+    "ip": "BestserverOKs.aternos.me",
+    "port": 35917,
     "version": "",
     "try-creative": false
   },
@@ -83,7 +83,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": true
+      "chat": false
     }
   },
   "chat": {
